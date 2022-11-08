@@ -1,0 +1,205 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url(fonts/Roboto-Regular.ttf);
+}
+body{
+    background: #ffffff;
+    margin: 0px;
+}
+.container,.container2, .container3, .container4  {
+    max-width: 100%;
+    margin: 0 auto;
+}
+.first-screen{
+    background-color: #EEEFF1;
+    height: 700px;
+    width: 100%;
+    font-size: 0px;
+    position: relative;
+}
+.menu{
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 79px;
+    margin-bottom: 151px;
+    margin-left: 42px;
+    position: relative;
+}
+.home-page {
+width: 98px;
+height: 27px;
+color: #34547A;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+margin-top: 79px;
+margin-bottom: 151px;
+margin-left: 399px;
+position: relative;
+}
+.about{
+    width: 137px;
+height: 27px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+}
+.works{
+    width: 63px;
+    height: 27px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+}
+.contacts{
+    margin-inline-end: 0px;
+    margin-bottom: 151px;
+    width: 99px;
+    height: 27px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+}
+.t-design{
+width: 541px;
+height: 45px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+margin-top: 0px;
+margin-bottom: 60px;
+margin-left: 399px;
+}
+.text1 {
+    width: 540px;
+    height: 67px;
+    color: #727272;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+            margin-top: 0px;
+            margin: 0 auto;
+            margin-bottom: 65px;
+            margin-left: 400px;
+
+}
+.button1{
+    width: 225px;
+    height: 65px;
+        margin-top: 0px;
+        margin-bottom: 141px;
+        margin-left: 399px;
+            background: #34547A;
+            border: 0px;
+            padding: 0px;
+}
+.write{
+    width: 143px;
+    height: 26px;
+    color: #FFFFFF;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        text-align: center;
+            margin-top: 19px;
+            margin-right: 41px;
+            margin-bottom: 20px;
+            margin-left: 41px;
+}
+.about-me{
+    width: 403px;
+    height: 30px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+margin-top: 112px;
+margin-bottom: 50px;
+text-align: center;
+}
+.text2{
+    width: 540px;
+height: 67px;
+color: #727272;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+text-align: center;
+margin-bottom: 100px;
+}
+.third-screen{
+    background: #34547A;
+    height: 250px;
+}
+.pictures{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 45px;
+    width: 141px;
+    height: 50px;
+}
+.pic1{
+    margin-left: 399px;
+}
+.howdoiwork{
+    width: 403px;
+    height: 30px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+margin-top: 100px;
+margin-bottom: 57px;
+text-align: center;
+}
+.text3{
+    width: 540px;
+    height: 67px;
+    color: #727272;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 57px;
+}
+.vid1{
+    width: 1110px;
+height: 600px;
+margin-left: 405px;
+margin-bottom: 100px;
+margin: 0 auto;
+display: block;
+}
+.last{
+    height: 151px;
+    background: #34547A
+}
+.name {
+    width: 130px;
+height: 19px;
+margin-top: 50px;
+margin-left: 406px;
+color: #FFFFFF;
+}
+.text4 {
+    width: 193px;
+height: 12px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+color: #FFFFFF;
+margin-left: 406px;
+}
